@@ -1,2 +1,2 @@
 # Games
-# This is a file containign code for simple, fun games
+# This is a file containing code for simple, fun games
